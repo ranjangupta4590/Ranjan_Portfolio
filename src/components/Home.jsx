@@ -1,7 +1,7 @@
 import React from "react";
 import PROFILE from "../assets/PROFILE.jpeg";
 // import PROFILE from "../assets/Profile.png";
-import Resume from "../assets/Resume.pdf";
+import Resume from "../assets/Resume_1.pdf";
 import Typical from "react-typical";
 import { FaDownload } from "react-icons/fa";
 import { HiArrowNarrowRight } from "react-icons/hi";
